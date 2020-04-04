@@ -1,11 +1,11 @@
 // Write your JS in here
 var pics = [
-	'imgs/kitty_bed.jpg', //0
-	'imgs/kitty_basket.jpg', //1
-	'imgs/kitty_laptop.jpg', //2
-	'imgs/kitty_door.jpg', //3
-	'imgs/kitty_sink.jpg', //4
-	'imgs/kitty_wall.jpg' //5
+	'imgs/IMG_01.jpg', //0
+	'imgs/IMG_02.jpg', //1
+	'imgs/IMG_03.jpg', //2
+	'imgs/IMG_04.jpg', //3
+	'imgs/IMG_05.jpg', //4
+	'imgs/IMG_06.jpg' //5
 ];
 
 var btn = document.querySelector('button');

@@ -11,15 +11,15 @@ h1 {
 }
 
 body {
-	background-color: #ffffff;
-	color: #2e1263;
+	background-color: #000000;
+	color: #ffffff;
 	font-family: "Source Code Pro";
 	font-weight: 200;
 }
 
 img {
 	height: 500px;
-	border-radius: 50%;
+	border-radius: 10%;
 }
 
 #container {
